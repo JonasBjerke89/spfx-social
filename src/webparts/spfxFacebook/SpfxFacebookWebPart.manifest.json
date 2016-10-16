@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "036e153d-1901-44e5-a12c-a43fa406ebd3",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "036e153d-1901-44e5-a12c-a43fa406ebd3",
+    "group": { "default": "Under Development" },
+    "title": { "default": "spfx-facebook" },
+    "description": { "default": "spfx-facebook description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "account": "itrelation",
+      "width": 250
+    }
+  }]
+}

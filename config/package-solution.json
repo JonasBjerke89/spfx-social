@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-twitter-client-side-solution",
+    "id": "87c246e8-1f2f-46c0-80ca-309a93922a17",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-twitter.spapp"
+  }
+}

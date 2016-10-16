@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "e0963acb-f3d6-4ce4-82d7-99f92bf51925",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "e0963acb-f3d6-4ce4-82d7-99f92bf51925",
+    "group": { "default": "Under Development" },
+    "title": { "default": "spfx-twitter" },
+    "description": { "default": "spfx-twitter description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "spfx-twitter"
+    }
+  }]
+}
